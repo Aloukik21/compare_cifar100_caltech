@@ -1,6 +1,7 @@
 # Top-1 accuracy competition on Caltech256, Caltech101 and CIFAR-100 (Winner) (First position)
 # Authors
-Aloukik Aditya (aloukikaditya@gmail.com)                      		
+Aloukik Aditya (aloukikaditya@gmail.com)    
+
 Sarthak Rawat
 
  
