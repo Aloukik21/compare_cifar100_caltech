@@ -2,7 +2,7 @@
 # Authors
 Aloukik Aditya (aloukikaditya@gmail.com)    
 
-Sarthak Rawat
+Sarthak Rawat (srawat@gmail.coom)
 
  
   
